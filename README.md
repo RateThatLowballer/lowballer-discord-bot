@@ -1,4 +1,4 @@
-# Lowballer Rating Discord Bot
+# Rate That Lowballer
 
 A comprehensive Discord bot for rating Hypixel Skyblock lowballers based on their behavior and trading practices. This bot helps Discord servers maintain a community-driven rating system for lowballers.
 
@@ -272,17 +272,20 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Support
 
 For support, please:
-1. Check the troubleshooting section
+1. Check the help section in our Discord
 2. Look at existing issues
 3. Create a new issue with detailed information
 
 ## Changelog
 
-### Version 1.0.0
-- Initial release
+### Version 0.1.0
+- Initial testing release
 - Basic rating system
 - Hypixel API integration
 - Slash commands
 - Database storage
 - Admin settings
 - Search and leaderboard functionality
+
+### Version 0.1.1
+- Minor Readme Fixes
